@@ -12,3 +12,6 @@
 - **Polynomial Math**: Perform addition, subtraction, and multiplication operations on polynomials.
 
 - **Graphical Representation**: Visualize polynomial results on a graph for better understanding.
+
+
+![funkcijeslika](https://github.com/LazarVuksanovic/functions/assets/95725910/f127d010-173a-43bc-ae01-491d1d33b4e0)
